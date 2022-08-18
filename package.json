@@ -1,0 +1,17 @@
+{
+  "name": "express-assesment-01",
+  "version": "1.0.0",
+  "description": "This is for testing",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "nodemon": "nodemon app.js"
+  },
+  "author": "chalani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
