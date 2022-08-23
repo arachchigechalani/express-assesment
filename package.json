@@ -13,5 +13,13 @@
     "express": "^4.18.1",
     "mysql": "^2.18.1",
     "nodemon": "^2.0.19"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arachchigechalani/express-assesment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arachchigechalani/express-assesment/issues"
+  },
+  "homepage": "https://github.com/arachchigechalani/express-assesment#readme"
 }

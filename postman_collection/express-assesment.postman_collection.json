@@ -34,7 +34,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"id\": \"C005\",\r\n    \"name\": \"Dilan\",\r\n    \"address\":\" Katharagama\",\r\n    \"salary\": 25000\r\n}",
+							"raw": "{\r\n    \"id\": \"C005\",\r\n    \"name\": \"chalani\",\r\n    \"address\":\" Mathara\",\r\n    \"salary\": 25000\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -62,7 +62,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"id\": \"C005\",\r\n    \"name\": \"Dilan Tharaka\",\r\n    \"address\":\" Katharagama\",\r\n    \"salary\": 50000\r\n}",
+							"raw": "{\r\n    \"id\": \"C005\",\r\n    \"name\": \"Chalani Lakshika\",\r\n    \"address\":\" Mathara\",\r\n    \"salary\": 50000\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
